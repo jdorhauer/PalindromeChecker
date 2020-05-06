@@ -1,0 +1,11 @@
+C:\Users\jdorh\source\repos\PalindromeChecker\PalindromeChecker\bin\Debug\netcoreapp3.1\PalindromeChecker.exe
+C:\Users\jdorh\source\repos\PalindromeChecker\PalindromeChecker\bin\Debug\netcoreapp3.1\PalindromeChecker.deps.json
+C:\Users\jdorh\source\repos\PalindromeChecker\PalindromeChecker\bin\Debug\netcoreapp3.1\PalindromeChecker.runtimeconfig.json
+C:\Users\jdorh\source\repos\PalindromeChecker\PalindromeChecker\bin\Debug\netcoreapp3.1\PalindromeChecker.runtimeconfig.dev.json
+C:\Users\jdorh\source\repos\PalindromeChecker\PalindromeChecker\bin\Debug\netcoreapp3.1\PalindromeChecker.dll
+C:\Users\jdorh\source\repos\PalindromeChecker\PalindromeChecker\bin\Debug\netcoreapp3.1\PalindromeChecker.pdb
+C:\Users\jdorh\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\netcoreapp3.1\PalindromeChecker.csprojAssemblyReference.cache
+C:\Users\jdorh\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\netcoreapp3.1\PalindromeChecker.AssemblyInfoInputs.cache
+C:\Users\jdorh\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\netcoreapp3.1\PalindromeChecker.AssemblyInfo.cs
+C:\Users\jdorh\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\netcoreapp3.1\PalindromeChecker.dll
+C:\Users\jdorh\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\netcoreapp3.1\PalindromeChecker.pdb
